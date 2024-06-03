@@ -1,0 +1,18 @@
+result-management-system/
+├── app/
+│   ├── __init__.py
+│   ├── models.py
+│   ├── routes.py
+│   ├── auth.py
+│   ├── templates/
+│   │   ├── index.html
+│   │   ├── login.html
+│   │   └── otp.html
+│   └── static/
+│       ├── style.css
+│       └── script.js
+├── instance/
+│   └── results.db
+├── venv/
+├── app.py
+└── requirements.txt
